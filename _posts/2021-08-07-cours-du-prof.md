@@ -7,3 +7,6 @@ tags: articles
 Aujourd'hui, on apprend à utiliser java script avec "The Coding Train".
 lien vers l'éditeur [ici](https://editor.p5js.org/)
 <iframe width="640" height="400" frameborder="0" src="https://preview.p5js.org/marionchampi/embed/tVRxaI3-z"></iframe>
+
+# Les couleurs fait le 9/08/2021
+<iframe width="640" height="400" frameborder="0" src="https://preview.p5js.org/marionchampi/embed/R61CS0cCT"></iframe>
