@@ -13,3 +13,6 @@ lien vers l'éditeur [ici](https://editor.p5js.org/)
 
 # La souris
 <iframe width="400" height="400" frameborder="0" src="https://preview.p5js.org/marionchampi/embed/0Y4zFp5V8"></iframe>
+
+# Les variables
+<iframe width="400" height="400" frameborder="0" src="https://preview.p5js.org/marionchampi/embed/g5qEca0CW"></iframe>
